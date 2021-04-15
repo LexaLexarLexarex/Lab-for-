@@ -21,3 +21,24 @@
 ![image](https://user-images.githubusercontent.com/62442582/114910038-14cf2e00-9e26-11eb-9cd5-dfd93ac04a9d.png)
 ![image](https://user-images.githubusercontent.com/62442582/114910124-30d2cf80-9e26-11eb-88b4-58cbe0d1505c.png)
 
+4. Создать запросы для вывода:
+a) всех различных фамилий заказчиков и размеров их скидок;
+![image](https://user-images.githubusercontent.com/62442582/114910441-97f08400-9e26-11eb-8d52-5421607fd146.png)
+![image](https://user-images.githubusercontent.com/62442582/114910501-a50d7300-9e26-11eb-8e08-a10fe3d8ef2e.png)
+
+b) всех различных районов проживания заказчиков;
+![image](https://user-images.githubusercontent.com/62442582/114910631-ccfcd680-9e26-11eb-9f69-8c9ff1e20c8e.png)
+![image](https://user-images.githubusercontent.com/62442582/114910671-d7b76b80-9e26-11eb-8d06-376752bae517.png)
+
+c) всех названий прокатных пунктов и их мест расположения.
+![image](https://user-images.githubusercontent.com/62442582/114910891-15b48f80-9e27-11eb-9087-c5ee82bd6473.png)
+![image](https://user-images.githubusercontent.com/62442582/114910917-1fd68e00-9e27-11eb-95e3-f58c7be24dea.png)
+
+
+5. Создав запрос получить следующую информацию:
+
+a) идентификаторы и фамилии заказчиков, проживающих в Приокском или Сормовском районе или тех, чьи фамилии оканчиваются на “ин”;
+
+b) номер, дата, срок проката и сумма для тех записей, где сумма проката более 2000руб. Отсортировать по возрастанию суммы и срока проката;
+
+c) названия вещей и адрес складирования, для вещей, оставшихся в количестве не менее 7.
