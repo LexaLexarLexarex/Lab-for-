@@ -52,5 +52,9 @@ c) названия вещей и адрес складирования, для 
 6. На основании данных о прокате вещей вывести все данные в таком формате:
 
 a) фамилия клиента, название пункта проката, дата, номер прокатной квитанции. Отсортировать по первым двум полям;
+![image](https://user-images.githubusercontent.com/62442582/114917720-eefa5700-9e2e-11eb-91b1-19242c47267f.png)
+![image](https://user-images.githubusercontent.com/62442582/114917770-fd487300-9e2e-11eb-8edb-9e56c33a878c.png)
 
 b) название пункта проката, дата, название вещи, сумма.
+![image](https://user-images.githubusercontent.com/62442582/114918414-b9a23900-9e2f-11eb-9674-6f28ec15fb86.png)
+![image](https://user-images.githubusercontent.com/62442582/114918466-c6bf2800-9e2f-11eb-80f3-2c70a7a5522e.png)
