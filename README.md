@@ -13,3 +13,11 @@
 ![image](https://user-images.githubusercontent.com/62442582/114889477-d3815300-9e12-11eb-8f11-8f03920036af.png)
 
 3. Используя оператор SELECT создать запрос для вывода всех строк каждой таблицы. Проверить правильность ввода. При необходимости произвести коррекцию значений операторами INSERT, UPDATE, DELETE.
+
+![image](https://user-images.githubusercontent.com/62442582/114909242-996d7c80-9e25-11eb-8eb1-f9cd1efd68d4.png)
+
+![image](https://user-images.githubusercontent.com/62442582/114909730-e3eef900-9e25-11eb-9cc7-b0fb027b3aa4.png)
+![image](https://user-images.githubusercontent.com/62442582/114909963-fe28d700-9e25-11eb-8c58-dc632000ed0e.png)
+![image](https://user-images.githubusercontent.com/62442582/114910038-14cf2e00-9e26-11eb-9cd5-dfd93ac04a9d.png)
+![image](https://user-images.githubusercontent.com/62442582/114910124-30d2cf80-9e26-11eb-88b4-58cbe0d1505c.png)
+
